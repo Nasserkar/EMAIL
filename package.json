@@ -1,0 +1,19 @@
+{
+  "name": "EMAIL",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "send": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  }
+}
